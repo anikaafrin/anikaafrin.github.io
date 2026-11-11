@@ -1,0 +1,5 @@
+- **Artificial intelligence and machine learning:** Practical predictive models and intelligent decision support.
+- **Generative AI and language models:** Automated assessment, conversational systems, and text classification.
+- **Computer vision:** Image-based disease detection, visual understanding, and disaster management.
+- **Trustworthy and privacy-preserving AI:** Bias analysis, authenticity verification, and privacy-preserving diagnosis.
+- **Multimodal learning:** Combining MRI, genetic, and clinical information for health applications.
