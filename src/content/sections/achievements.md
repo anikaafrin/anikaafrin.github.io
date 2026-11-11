@@ -15,4 +15,4 @@ order: 6
 - **Student leadership · 2022:** Senior Executive at BUCC and Secretary at BURT.
 
 ### Activities and Participation
-Conference presentations and student leadership. Photos and optional presentation links can be added when available.
+Exploring and growing. 
