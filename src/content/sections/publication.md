@@ -1,6 +1,6 @@
 ---
 title: "Publication"
-subtitle: "Published conference research across AI applications."
+subtitle: "Selected publication in machine learning field."
 order: 4
 ---
 
