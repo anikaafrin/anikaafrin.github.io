@@ -12,7 +12,7 @@ order: 4
 
   <div class="publication-links"><a href="https://doi.org/10.1109/QPAIN66474.2025.11171623" target="_blank" rel="noopener noreferrer">DOI</a><span aria-disabled="true" title="Placeholder — arXiv URL not provided">arXiv</span><a href="/citations/afrin2025publication2.bib" download="afrin2025publication2.bib" title="Download draft BibTeX citation">Bib</a></div>
 
-- Hasan, M. R., Setu, S. A., Himi, S. T., Sultana, S., **Afrin, A.**, Paul, S., & Monalisa, N. T. (2025). Unmasking AI bias in traditional prognosis models. In *2025 IEEE International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN)*. IEEE. **[Co-supervised]**
+- Hasan, M. R., Setu, S. A., Himi, S. T., Sultana, S., **Afrin, A.**, Paul, S., & Monalisa, N. T. (2025). Unmasking AI bias in traditional prognosis models. In *2025 IEEE International Conference on Quantum Photonics, Artificial Intelligence, and Networking (QPAIN)*. IEEE.
 
   <div class="publication-links"><a href="https://doi.org/10.1109/QPAIN66474.2025.11171992" target="_blank" rel="noopener noreferrer">DOI</a><span aria-disabled="true" title="Placeholder — arXiv URL not provided">arXiv</span><a href="/citations/afrin2025publication3.bib" download="afrin2025publication3.bib" title="Download draft BibTeX citation">Bib</a></div>
 
